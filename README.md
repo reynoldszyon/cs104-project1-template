@@ -1,4 +1,4 @@
-# [Your Project Name Here]
+# Knowledge-Based Quiz
 > A short one-line tagline for your quiz or questionnaire
 
 ## Overview
