@@ -1,5 +1,5 @@
 # Knowledge-Based Quiz
-> A short one-line tagline for your quiz or questionnaire
+> This quiz is based on how well do you know music and its artists.
 
 ## Overview
 > **DELETE AND REPLACE ME:** Describe your program's focus, the type of
