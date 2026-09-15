@@ -2,14 +2,9 @@
 > This quiz is based on how well do you know music and its artists.
 
 ## Overview
-> **DELETE AND REPLACE ME:** Describe your program's focus, the type of
-> program it is (quiz, personality test, or recommendation tool), and the
-> final output a user will receive. Make it clear how user input and
-> conditional logic work together to produce that result.
+> This program is a music knowledge quiz that will test the users on how well they know music and its artists. Users will answer a series of questions about different artists, songs, and albums. Based on their answers users will earn points for each correct answer, and their final score will determine how well they know music.
 >
-> Example: "This program quizzes users on Impressionist art. Based on
-> their answers, users earn points, and their final score determines
-> their level of knowledge on the topic."
+> For example, if the user answers correctly about which artist released a certain song, they will receive a point. At the end of the quiz, the program will display the usuer's final score and the message based on their results.
 
 ## Sample Questions and Responses
 > **DELETE AND REPLACE ME:** List at least five questions you'll ask the
