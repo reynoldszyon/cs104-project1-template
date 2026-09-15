@@ -38,20 +38,14 @@
 > 4. Ella Mai
 
 ## Variables
-> **DELETE AND REPLACE ME:** List the variables your program uses. For
-> each one, note what it stores and why you structured it that way,
-> especially for variables tracking results, explain whether a single
-> variable or multiple variables makes sense for your program's logic.
->
-> Example:
-> - `score` (int): tracks total quiz points. A single variable works here
->   since results are cumulative and only one final score matters.
-> - `decade_1920s_points`, `decade_1960s_points`, `decade_1980s_points`
->   (int): separate variables needed since multiple decades can tie for
->   highest score, one combined variable couldn't represent that.
-> - `user_choice` (str or int): stores the user's response to a question,
->   compared against expected options to decide which branch of the
->   conditional runs.
+> - 'store'(int): Keeps track of the number of questions the users answer correctly. One score variable makes sence because all of the correct ancswer will contribute to the user's final score.
+> - 'answer1'(int): Stores the user's answer to the question about which artist has their own self-titled album. This answer will be used in a condiotnal statement to determine if the user is correct.
+> - 'answer2'(int): Stores the user's answer to the question about who released the song "Love on the Brain." This answer will be checked using conditonal logic.
+> - 'answer3'(int): Stores the user's answer to the question about who released "Heartbreak Anniversary." This answer will be used to determine wheater the user gets a point.
+> - 'answer4'(int): Stores the user's answer to the question about which artist released the album Confessions in 2004. The program will use this answer in a conditonal statement.
+> - 'answer5'(int): Stores the user's answer to the question about who released the song "Trip." The program will check this answer using a conditional logic
+> - 'name'(str): Stores the user's name so the program can address them why displaying thier quiz results.
+> - 'total_questions'(int): Stores the total number of questions in the quiz. This will be used when displaying the user final score, such as "You scored 4 out of 5."
 
 ## Conditional Logic Outline
 > **DELETE AND REPLACE ME:** Outline every conditional statement in your
