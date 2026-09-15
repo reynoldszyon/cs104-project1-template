@@ -48,24 +48,30 @@
 > - 'total_questions'(int): Stores the total number of questions in the quiz. This will be used when displaying the user final score, such as "You scored 4 out of 5."
 
 ## Conditional Logic Outline
-> **DELETE AND REPLACE ME:** Outline every conditional statement in your
-> program, in the order they appear. For each one, describe it in plain
-> language (no code needed): which question/condition it relates to,
-> each branch (`if`/`elif`/`else`), the exact condition that triggers
-> each branch, the action(s) that happen in each branch, and note any
-> nested conditionals and why they're nested.
+> - **Conditional statement 1** — related to "Which artist has their own self-titled album?"
+>   - `if` the response is 3 (Beyoncé): display a correct message and increase `score` by 1.
+>   - `else`: display incorrect message and give the correct answer.
 >
-> Example:
-> - **Conditional statement 1** — related to "Which of the following
->   painters is an Impressionist? 1-Monet 2-Warhol 3-Rembrandt"
->   - `if` response is 1 (Monet): display congratulatory message,
->     increment `score` by 1
->   - `else`: display incorrect message and explain the correct answer
+> - **Conditional statement 2** — related to "Who released the song 'Love on the Brain'?"
+>   - `if` the response is 4 (Rihanna): display a correct message and increase `score` by 1.
+>   - `else`: display incorrect message and display correct answer.
 >
-> - **Conditional statement 2** — reveals final results based on `score`
->   - `if` score is 3: display high-knowledge message
->   - `elif` score is 1 or 2: display some-knowledge message
->   - `else`: display message encouraging the user to learn more
+> - **Conditional statement 3** — related to "Which artist released the song 'Heartbreak Anniversary'?"
+>   - `if` the response is 2 (Giveon): display a correct message and increase `score` by 1.
+>   - `else`: display an incorrect message and encourage the user to try again next time.
+>
+> - **Conditional statement 4** — related to "Which artist released the album Confessions in 2004?"
+>   - `if` the response is 1 (Usher): display a correct message and increase `score` by 1.
+>   - `else`: display an incorrect message and display the correct answer.
+>
+> - **Conditional statement 5** — related to "Who released the song 'Trip'?"
+>   - `if` the response is 4 (Ella Mai): display a correct message and increase `score` by 1.
+>   - `else`: display an incorrect mmessage and give the correct answer.
+>
+> - **Conditional statement 6** — reveals final results based on `score`
+>   - `if` the score is 5: display a message saying the user has excellent Music Knowledge.
+>   - `elif` the score is 3 or 4: display a message saying the user has good Music Knowledge.
+>   - `else`: display a message encouraging the user to lisen to more music and try again.
 
 ## How to Run
 1. Clone this repo
