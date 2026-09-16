@@ -1,5 +1,5 @@
 # Knowledge-Based Quiz
-# Author: [Your Name]
+# Author: Zy'on Reynolds
 # A quiz/questionnaire program built for CS 104 Project 1
 
 # TODO: Define your variables here.
