@@ -27,4 +27,6 @@ answer1 = int(input("Enter your answer: "))
 if answer1 == 3:
     print("Correct! Beyoncé is the correct answer.")
     score = score + 1
+else:
+    print("Incorrect. The correct answer is 3, Beyoncé.")
 # TODO: Display the final results to the user.
