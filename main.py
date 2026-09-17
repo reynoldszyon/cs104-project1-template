@@ -91,4 +91,8 @@ print("3. Adele")
 print("4. Ella Mai")
 
 answer5 = int(input("Enter your answer: "))
+
+if answer5 == 4:
+    print("Correct! Ella Mai is the correct answer.")
+    score = score + 1
 # TODO: Display the final results to the user.
