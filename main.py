@@ -46,4 +46,14 @@ if answer2 == 4:
     score = score + 1
 else:
     print("Incorrect. The correct answer is 4, Rihanna.")
+
+print()
+
+#Question 3
+print("Question 3: Which artist released the song 'Heartbreak Anniversary'?")
+print("1. Daniel Caesar")
+print("2. Giveon")
+print("3. Lucky Daye")
+print("4. Brent Faiyaz")
+
 # TODO: Display the final results to the user.
