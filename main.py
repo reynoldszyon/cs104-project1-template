@@ -58,5 +58,9 @@ print("4. Brent Faiyaz")
 
 answer3 = int(input("Enter your answer: "))
 
+if answer3 == 2:
+    print("Correct! Giveon is the correct answer.")
+    score = score + 1
+
 
 # TODO: Display the final results to the user.
