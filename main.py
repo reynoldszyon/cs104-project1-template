@@ -29,4 +29,14 @@ if answer1 == 3:
     score = score + 1
 else:
     print("Incorrect. The correct answer is 3, Beyoncé.")
+
+print ()
+
+# Question 2
+print("Question 2: Who released the hit song 'Love on the Brain'?")
+print("1. TLC")
+print("2. H.E.R.")
+print("3. Ari Lennox")
+print("4. Rihanna")
+
 # TODO: Display the final results to the user.
