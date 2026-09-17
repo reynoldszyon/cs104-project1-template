@@ -71,7 +71,7 @@
 > - **Conditional statement 6** — reveals final results based on `score`
 >   - `if` the score is 5: display a message saying the user has excellent Music Knowledge.
 >   - `elif` the score is 3 or 4: display a message saying the user has good Music Knowledge.
->   - `else`: display a message encouraging the user to lisen to more music and try again.
+>   - `else`: display a message encouraging the user to listen to more music and try again.
 
 ## How to Run
 1. Clone this repo
