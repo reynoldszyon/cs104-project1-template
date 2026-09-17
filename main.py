@@ -106,3 +106,5 @@ print("You scored " + str(score) + " out of " + str(total_questions) + ".")
 
 if score == 5:
     print("Excellent! You really know your music knowledge!")
+elif score >= 3:
+    print("Good job! You have a good knowledge of music.")
