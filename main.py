@@ -103,3 +103,6 @@ print()
 # TODO: Display the final results to the user.
 print("Quiz complete, " + name + "!")
 print("You scored " + str(score) + " out of " + str(total_questions) + ".")
+
+if score == 5:
+    print("Excellent! You really know your music knowledge!")
