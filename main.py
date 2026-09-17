@@ -82,4 +82,12 @@ else:
     print("Incorrect. The correct answer is 1, Usher.")
 
 print()
+
+# Question 5
+print("Question 5: Who released the song 'Trip'?")
+print("1. Summer Walker")
+print("2. Kwn")
+print("3. Adele")
+print("4. Ella Mai")
+
 # TODO: Display the final results to the user.
