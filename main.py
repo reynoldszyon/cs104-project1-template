@@ -97,5 +97,9 @@ if answer5 == 4:
     score = score + 1
 else:
     print("Incorrect. The correct answer is 4, Ella Mai.")
-    
+
+print()
+
 # TODO: Display the final results to the user.
+print("Quiz complete, " + name + "!")
+print("You scored " + str(score) + " out of " + str(total_questions) + ".")
