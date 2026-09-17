@@ -90,4 +90,5 @@ print("2. Kwn")
 print("3. Adele")
 print("4. Ella Mai")
 
+answer5 = int(input("Enter your answer: "))
 # TODO: Display the final results to the user.
