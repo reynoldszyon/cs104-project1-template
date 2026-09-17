@@ -16,5 +16,10 @@ print()
 # Follow the outline you planned in your README.
 
 # Quesiton 1
-print("Question 1: Which artist has her own self-titled album?") 
+print("Question 1: Which artist has her own self-titled album?")
+print("1. Cardi B")
+print("2. SZA")
+print("3. Beyoncé") 
+print("4. Alicia Keys")
+
 # TODO: Display the final results to the user.
