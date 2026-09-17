@@ -64,5 +64,13 @@ if answer3 == 2:
 else:
     print("Incorrect. The correct answer is 2, Giveon.")
 
+print()
+
+# Question 4
+print("Question 4: Which artist released the album Confessions in 2004?")
+print("1. Usher")
+print("2. Chris Brown")
+print("3. Trey Songz")
+print("4. Ne-Yo")
 
 # TODO: Display the final results to the user.
