@@ -95,4 +95,7 @@ answer5 = int(input("Enter your answer: "))
 if answer5 == 4:
     print("Correct! Ella Mai is the correct answer.")
     score = score + 1
+else:
+    print("Incorrect. The correct answer is 4, Ella Mai.")
+    
 # TODO: Display the final results to the user.
