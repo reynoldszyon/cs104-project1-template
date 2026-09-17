@@ -74,4 +74,8 @@ print("3. Trey Songz")
 print("4. Ne-Yo")
 
 answer4 = int(input("Enter your answer: "))
+
+if answer4 == 1:
+    print("Correct! Usher released the album Confessions in 2004.")
+    score = score + 1
 # TODO: Display the final results to the user.
