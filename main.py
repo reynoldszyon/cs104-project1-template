@@ -108,3 +108,5 @@ if score == 5:
     print("Excellent! You really know your music knowledge!")
 elif score >= 3:
     print("Good job! You have a good knowledge of music.")
+else:
+    print("Keep listening to music and try the quiz again")
