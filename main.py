@@ -39,4 +39,6 @@ print("2. H.E.R.")
 print("3. Ari Lennox")
 print("4. Rihanna")
 
+answer2 = int(input("Enter your answer: "))
+
 # TODO: Display the final results to the user.
