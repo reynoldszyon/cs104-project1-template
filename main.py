@@ -15,4 +15,6 @@ print()
 # TODO: Write your questions and conditional logic here.
 # Follow the outline you planned in your README.
 
+# Quesiton 1
+print("Question 1: Which artist has her own self-titled album?") 
 # TODO: Display the final results to the user.
