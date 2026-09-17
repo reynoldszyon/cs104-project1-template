@@ -56,4 +56,7 @@ print("2. Giveon")
 print("3. Lucky Daye")
 print("4. Brent Faiyaz")
 
+answer3 = int(input("Enter your answer: "))
+
+
 # TODO: Display the final results to the user.
