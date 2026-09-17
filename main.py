@@ -61,6 +61,8 @@ answer3 = int(input("Enter your answer: "))
 if answer3 == 2:
     print("Correct! Giveon is the correct answer.")
     score = score + 1
+else:
+    print("Incorrect. The correct answer is 2, Giveon.")
 
 
 # TODO: Display the final results to the user.
