@@ -73,4 +73,5 @@ print("2. Chris Brown")
 print("3. Trey Songz")
 print("4. Ne-Yo")
 
+answer4 = int(input("Enter your answer: "))
 # TODO: Display the final results to the user.
