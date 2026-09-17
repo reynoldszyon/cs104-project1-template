@@ -41,4 +41,7 @@ print("4. Rihanna")
 
 answer2 = int(input("Enter your answer: "))
 
+if answer2 == 4:
+    print("Correct! Rihanna released 'Love on the Brain'.")
+    score = score + 1
 # TODO: Display the final results to the user.
