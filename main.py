@@ -78,4 +78,8 @@ answer4 = int(input("Enter your answer: "))
 if answer4 == 1:
     print("Correct! Usher released the album Confessions in 2004.")
     score = score + 1
+else:
+    print("Incorrect. The correct answer is 1, Usher.")
+
+print()
 # TODO: Display the final results to the user.
