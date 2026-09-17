@@ -22,4 +22,5 @@ print("2. SZA")
 print("3. Beyoncé") 
 print("4. Alicia Keys")
 
+answer1 = int(input("Enter your answer: "))
 # TODO: Display the final results to the user.
