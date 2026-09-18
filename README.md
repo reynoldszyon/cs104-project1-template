@@ -66,7 +66,7 @@
 >
 > - **Conditional statement 5** — related to "Who released the song 'Trip'?"
 >   - `if` the response is 4 (Ella Mai): display a correct message and increase `score` by 1.
->   - `else`: display an incorrect mmessage and give the correct answer.
+>   - `else`: display an incorrect message and give the correct answer.
 >
 > - **Conditional statement 6** — reveals final results based on `score`
 >   - `if` the score is 5: display a message saying the user has excellent Music Knowledge.
