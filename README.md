@@ -78,4 +78,4 @@
 2. Run `python3 main.py` or `python main.py`
 
 ## Demo Video
-[DELETE AND REPLACE ME: link to your 5-minute explanation video]
+(https://www.loom.com/share/cb7b8d06eb8349c19b0765be74e653d4)
